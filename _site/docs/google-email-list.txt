@@ -1,7 +1,7 @@
 # Heading 1
 
 Sample text
-
+DOG
 ## Heading 2
 
 Sample text
